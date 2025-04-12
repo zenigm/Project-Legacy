@@ -171,8 +171,7 @@ All ideas, game concepts, designs, world-building, characters, and mechanics des
 By publishing this repo and its content, I’m **publicly timestamping this idea and claiming authorship**. Any reproduction, adaptation, or use of this concept without permission is **strictly not allowed**.
 
 📁 **Concept Timestamp (Proof of Origin)**:  
-For timestamp/legal proof: Concept doc was uploaded here on **April 12, 2025**  
-🔗 [View Document on Google Drive]([https://drive.google.com/file/d/1PF5H8WKjosTI8zpRRO9r1xskn7_F0onc/view?usp=sharing])
+For timestamp/legal proof: 📌 For timestamp/legal proof: [Concept doc was uploaded here on April 12, 2025](https://drive.google.com/file/d/1PF5H8WKjosTI8zpRRO9r1xskn7_F0onc/view?usp=sharing)
 
 >  This is MY vision. Respect the grind, don’t steal the shine.
 
