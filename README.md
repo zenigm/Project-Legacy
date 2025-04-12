@@ -23,7 +23,7 @@ Honestly? **I’m sick of lifeless NPCs.**
 I want a game where:  
 ✅ NPCs **remember** your conversations and bring them up later.  
 ✅ NPCs **get mad** if you betray them and might never forgive you.  
-✅ NPCs **have their own ambitions**—some wanna be heroes, some wanna fck you over.  
+✅ NPCs **have their own ambitions**—some wanna be heroes, some wanna f*ck you over.  
 ✅ NPCs **live their own lives** even when you’re AFK.  
 
 This isn’t just some AI gimmick.  
@@ -97,19 +97,38 @@ Technology always catches up.
 
 ---
 
-# 🚀 CAN I REALLY MAKE THIS?  
+# ⏳ WHY I'M STARTING THIS AFTER 2 YEARS  
 
-People thought **Tesla was a joke.**  
-People thought **AI art was a scam.**  
-People thought **GTA 6 would never come out.**  
+Yup, I’m being real with y’all.  
+I’m in **college** right now, grinding through **BCA**, and I’m also on a hardcore mission to become a **Full Stack Dev + Java beast** 🧠💻.  
 
-They were all wrong.  
+I don’t have a team.  
+I don’t have funds.  
+I’m solo AF and broke rn 😂  
 
-This isn’t just a dream.  
-This is happening.  
+But that’s not stopping me.  
+It’s just **delaying** the start—**not killing the dream.**  
 
-And you?  
-You’re here at the start of it.  
+So here’s the real plan:  
+
+📆 **I will officially start development of Project Legacy in 2 years.**  
+🛠️ But to prove I’m not just talking big—**I’ll drop the first sample concept or work prototype after 1 year** right here in this repo.  
+
+Consider this your **first glimpse into the future.**  
+
+---
+
+# 🎮 BONUS: THERE’S ANOTHER ONE COMING – *PROJECT REMORSE*  
+
+Yeah, you heard me right.  
+I’ve got another project in the oven—**same level, same fire, different soul.**  
+A story I’m building in my mind for years.
+
+If Project Legacy is about giving NPCs a life…  
+**Project Remorse** is about showing what it means to lose one.  
+
+Wanna know more?  
+Go check out the repo: [🔗 Project Remorse](#) *(link it later when it's live)*  
 
 ---
 
@@ -141,4 +160,4 @@ you’ll be able to say **"I was there from day one."**
 We’re not just making a game.  
 We’re making **history.**  
 
-Are you in?  
+Are you in?
