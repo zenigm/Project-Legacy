@@ -161,3 +161,19 @@ We’re not just making a game.
 We’re making **history.**  
 
 Are you in?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🛡️ LEGAL NOTE: I RETAIN FULL IP RIGHTS
+
+All ideas, game concepts, designs, world-building, characters, and mechanics described in this repository and in the Project Legacy vision are the **original intellectual property of the developer (me)**.
+
+By publishing this repo and its content, I’m **publicly timestamping this idea and claiming authorship**. Any reproduction, adaptation, or use of this concept without permission is **strictly not allowed**.
+
+📁 **Concept Timestamp (Proof of Origin)**:  
+For timestamp/legal proof: Concept doc was uploaded here on **April 12, 2025**  
+🔗 [View Document on Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1PF5H8WKjosTI8zpRRO9r1xskn7_F0onc/view?usp=drive_link))
+
+>  This is MY vision. Respect the grind, don’t steal the shine.
+
+
